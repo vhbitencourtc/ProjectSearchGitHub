@@ -1,8 +1,10 @@
 # <p align="center">:mortar_board: Digital Innovation One - Curso :mortar_board:</p>
 ## <p align="center">:computer: Projeto Search GitHub :computer:</p>
-<p align="center"> :computer:Criando um front-end totalmente componentizado na prática com ReactJS:computer:</p>
-<p align="center"> :computer:Uma caixa de pesquisa, estilo Google, porém utilizando API do GitHub para pesquisa de perfis, projetos e repositórios:computer:</p>
-#### <p align="center"> O projeto ministrado pelo Matheus Benites</p>
+### <p align="center"> :computer:Criando um front-end totalmente componentizado na prática com ReactJS:computer:</p>
+#### <p align="center"> :computer:Uma caixa de pesquisa, estilo Google, porém utilizando API do GitHub para pesquisa de perfis, projetos e repositórios:computer:</p>
+
+#
+#### O projeto ministrado pelo Matheus Benites
 
 #
 # Getting Started with Create React App
